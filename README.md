@@ -5,6 +5,7 @@ Estrutura do Repositório
 O repositório contém cinco classes Java, onde cada classe representa um desafio diferente. Os desafios 4 e 5 foram perguntas teóricas de lógica e, portanto, contêm apenas comentários explicativos.
 
 Questões:
+
 Questões 1: Implementação de [Sequência de Fibonacci].
 
 Questões 2: Solução de [Contagem de Letras].
