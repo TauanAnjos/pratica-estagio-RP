@@ -6,7 +6,11 @@ O repositório contém cinco classes Java, onde cada classe representa um desafi
 
 Questões:
 Questões 1: Implementação de [Sequência de Fibonacci].
+
 Questões 2: Solução de [Contagem de Letras].
+
 Questões 3: Resolução de [Cálculo de Soma].
+
 Questões 4: Pergunta de lógica (Complete as Sequências).
+
 Questões 5: Pergunta de lógica (Lâmpadas e Interruptores).
